@@ -338,7 +338,7 @@
     "away_pass_vs_def": 0.232,
     "away_rush_vs_def": -0.116
    },
-   "roof": NaN,
+   "roof": null,
    "div_game": false,
    "rest": {
     "away": 7,
@@ -408,7 +408,7 @@
     "away_pass_vs_def": 0.034,
     "away_rush_vs_def": -0.092
    },
-   "roof": NaN,
+   "roof": null,
    "div_game": false,
    "rest": {
     "away": 7,
