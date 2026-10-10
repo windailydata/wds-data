@@ -77,7 +77,9 @@
    "rest": {
     "away": 7,
     "home": 7
-   }
+   },
+   "model_total": 43.1,
+   "total_edge": 1.6
   },
   {
    "game_id": "2026_05_CHI_GB",
@@ -108,7 +110,9 @@
    "rest": {
     "away": 7,
     "home": 7
-   }
+   },
+   "model_total": 48.0,
+   "total_edge": 1.5
   },
   {
    "game_id": "2026_05_CIN_MIA",
@@ -139,7 +143,9 @@
    "rest": {
     "away": 7,
     "home": 7
-   }
+   },
+   "model_total": 47.7,
+   "total_edge": 4.2
   },
   {
    "game_id": "2026_05_LV_NE",
@@ -170,7 +176,9 @@
    "rest": {
     "away": 7,
     "home": 7
-   }
+   },
+   "model_total": 42.0,
+   "total_edge": -3.5
   },
   {
    "game_id": "2026_05_MIN_NO",
@@ -201,7 +209,9 @@
    "rest": {
     "away": 7,
     "home": 6
-   }
+   },
+   "model_total": 40.0,
+   "total_edge": -1.5
   },
   {
    "game_id": "2026_05_CLE_NYJ",
@@ -232,7 +242,9 @@
    "rest": {
     "away": 10,
     "home": 7
-   }
+   },
+   "model_total": 40.9,
+   "total_edge": 1.4
   },
   {
    "game_id": "2026_05_IND_PIT",
@@ -263,7 +275,9 @@
    "rest": {
     "away": 7,
     "home": 10
-   }
+   },
+   "model_total": 44.8,
+   "total_edge": 1.3
   },
   {
    "game_id": "2026_05_HOU_TEN",
@@ -294,7 +308,9 @@
    "rest": {
     "away": 7,
     "home": 7
-   }
+   },
+   "model_total": 43.7,
+   "total_edge": 5.2
   },
   {
    "game_id": "2026_05_NYG_WAS",
@@ -333,7 +349,9 @@
    "rest": {
     "away": 7,
     "home": 7
-   }
+   },
+   "model_total": 44.1,
+   "total_edge": 2.6
   },
   {
    "game_id": "2026_05_DEN_LAC",
@@ -364,7 +382,9 @@
    "rest": {
     "away": 7,
     "home": 7
-   }
+   },
+   "model_total": 41.5,
+   "total_edge": 0.0
   },
   {
    "game_id": "2026_05_DET_ARI",
@@ -395,7 +415,9 @@
    "rest": {
     "away": 7,
     "home": 7
-   }
+   },
+   "model_total": 48.1,
+   "total_edge": -6.4
   },
   {
    "game_id": "2026_05_SF_SEA",
@@ -434,7 +456,9 @@
    "rest": {
     "away": 7,
     "home": 7
-   }
+   },
+   "model_total": 47.9,
+   "total_edge": 2.4
   },
   {
    "game_id": "2026_05_BAL_ATL",
@@ -473,7 +497,9 @@
    "rest": {
     "away": 7,
     "home": 6
-   }
+   },
+   "model_total": 44.7,
+   "total_edge": 1.2
   },
   {
    "game_id": "2026_05_BUF_LA",
@@ -504,7 +530,9 @@
    "rest": {
     "away": 8,
     "home": 8
-   }
+   },
+   "model_total": 51.6,
+   "total_edge": -2.9
   }
  ],
  "teams": [
