@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02 10:05 ET",
+ "updated": "2026-11-02 10:51 ET",
  "season": 2026,
  "week": 9,
  "through_week": 8,
@@ -196,11 +196,11 @@
    "home": "IND",
    "away_qb": "Dak Prescott",
    "home_qb": "Daniel Jones",
-   "market_home_margin": -5.5,
+   "market_home_margin": -6.0,
    "market_total": 51.5,
    "model_base": -0.6,
    "model_home_margin": -0.6,
-   "edge": 4.9,
+   "edge": 5.4,
    "adjustments": [],
    "matchup": {
     "home_pass_vs_def": 0.008,
@@ -328,11 +328,11 @@
    "home": "PHI",
    "away_qb": "J.J. McCarthy",
    "home_qb": "Tanner McKee",
-   "market_home_margin": -3.0,
+   "market_home_margin": -3.5,
    "market_total": 40.5,
    "model_base": -0.1,
    "model_home_margin": -0.1,
-   "edge": 2.9,
+   "edge": 3.4,
    "adjustments": [],
    "matchup": {
     "home_pass_vs_def": -0.118,
@@ -460,11 +460,11 @@
    "home": "NE",
    "away_qb": "Jordan Love",
    "home_qb": "Drake Maye",
-   "market_home_margin": 3.0,
-   "market_total": 47.5,
+   "market_home_margin": 2.5,
+   "market_total": 46.5,
    "model_base": 2.1,
    "model_home_margin": 2.1,
-   "edge": -0.9,
+   "edge": -0.4,
    "adjustments": [],
    "matchup": {
     "home_pass_vs_def": 0.052,
@@ -483,7 +483,7 @@
     "home": 7
    },
    "model_total": 44.5,
-   "total_edge": -3.0
+   "total_edge": -2.0
   },
   {
    "game_id": "2026_09_ARI_SEA",
