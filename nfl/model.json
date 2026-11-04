@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03 07:16 ET",
+ "updated": "2026-11-04 07:14 ET",
  "season": 2026,
  "week": 9,
  "through_week": 8,
@@ -56,11 +56,11 @@
    "home": "BAL",
    "away_qb": "Trevor Lawrence",
    "home_qb": "Tyler Huntley",
-   "market_home_margin": -8.5,
-   "market_total": 42.5,
+   "market_home_margin": -10.0,
+   "market_total": 40.5,
    "model_base": -3.6,
    "model_home_margin": 1.2,
-   "edge": 9.7,
+   "edge": 11.2,
    "adjustments": [
     {
      "team": "BAL",
@@ -87,7 +87,7 @@
     "home": 4
    },
    "model_total": 45.1,
-   "total_edge": 2.6
+   "total_edge": 4.6
   },
   {
    "game_id": "2026_09_CIN_ATL",
@@ -97,11 +97,11 @@
    "home": "ATL",
    "away_qb": "Joe Burrow",
    "home_qb": "Michael Penix Jr.",
-   "market_home_margin": -3.0,
-   "market_total": 52.5,
+   "market_home_margin": -3.5,
+   "market_total": 51.5,
    "model_base": -1.3,
    "model_home_margin": -1.3,
-   "edge": 1.7,
+   "edge": 2.2,
    "adjustments": [],
    "matchup": {
     "home_pass_vs_def": -0.048,
@@ -120,7 +120,7 @@
     "home": 7
    },
    "model_total": 46.0,
-   "total_edge": -6.5
+   "total_edge": -5.5
   },
   {
    "game_id": "2026_09_DEN_CAR",
@@ -130,11 +130,11 @@
    "home": "CAR",
    "away_qb": "Bo Nix",
    "home_qb": "Bryce Young",
-   "market_home_margin": -3.0,
+   "market_home_margin": -2.5,
    "market_total": 43.5,
    "model_base": -4.5,
    "model_home_margin": -4.5,
-   "edge": -1.5,
+   "edge": -2.0,
    "adjustments": [],
    "matchup": {
     "home_pass_vs_def": -0.12,
@@ -197,7 +197,7 @@
    "away_qb": "Geno Smith",
    "home_qb": "Patrick Mahomes",
    "market_home_margin": 9.5,
-   "market_total": 46.5,
+   "market_total": 47.5,
    "model_base": 6.0,
    "model_home_margin": 6.0,
    "edge": -3.5,
@@ -219,7 +219,7 @@
     "home": 7
    },
    "model_total": 47.6,
-   "total_edge": 1.1
+   "total_edge": 0.1
   },
   {
    "game_id": "2026_09_DET_MIA",
@@ -262,11 +262,11 @@
    "home": "NO",
    "away_qb": "Deshaun Watson",
    "home_qb": "Tyler Shough",
-   "market_home_margin": 2.5,
-   "market_total": 43.5,
+   "market_home_margin": 1.5,
+   "market_total": 42.5,
    "model_base": 1.6,
    "model_home_margin": 1.6,
-   "edge": -0.9,
+   "edge": 0.1,
    "adjustments": [],
    "matchup": {
     "home_pass_vs_def": -0.114,
@@ -285,7 +285,7 @@
     "home": 14
    },
    "model_total": 43.4,
-   "total_edge": -0.1
+   "total_edge": 0.9
   },
   {
    "game_id": "2026_09_NYG_PHI",
@@ -296,7 +296,7 @@
    "away_qb": "J.J. McCarthy",
    "home_qb": "Tanner McKee",
    "market_home_margin": -3.5,
-   "market_total": 40.5,
+   "market_total": 39.5,
    "model_base": -0.0,
    "model_home_margin": -0.0,
    "edge": 3.5,
@@ -318,7 +318,7 @@
     "home": 7
    },
    "model_total": 43.6,
-   "total_edge": 3.1
+   "total_edge": 4.1
   },
   {
    "game_id": "2026_09_LA_WAS",
@@ -395,7 +395,7 @@
    "away_qb": "Kirk Cousins",
    "home_qb": "Brock Purdy",
    "market_home_margin": 10.0,
-   "market_total": 51.5,
+   "market_total": 52.5,
    "model_base": 10.4,
    "model_home_margin": 10.4,
    "edge": 0.4,
@@ -417,7 +417,7 @@
     "home": 14
    },
    "model_total": 50.0,
-   "total_edge": -1.5
+   "total_edge": -2.5
   },
   {
    "game_id": "2026_09_GB_NE",
@@ -460,11 +460,11 @@
    "home": "SEA",
    "away_qb": "Gardner Minshew",
    "home_qb": "Sam Darnold",
-   "market_home_margin": 11.5,
-   "market_total": 44.5,
+   "market_home_margin": 12.5,
+   "market_total": 41.5,
    "model_base": 8.4,
    "model_home_margin": 7.5,
-   "edge": -4.0,
+   "edge": -5.0,
    "adjustments": [
     {
      "team": "ARI",
@@ -491,7 +491,7 @@
     "home": 6
    },
    "model_total": 41.2,
-   "total_edge": -3.3
+   "total_edge": -0.3
   },
   {
    "game_id": "2026_09_TB_CHI",
@@ -502,7 +502,7 @@
    "away_qb": "Baker Mayfield",
    "home_qb": "Caleb Williams",
    "market_home_margin": 6.0,
-   "market_total": 46.5,
+   "market_total": 47.5,
    "model_base": 3.4,
    "model_home_margin": 3.4,
    "edge": -2.6,
@@ -524,7 +524,7 @@
     "home": 6
    },
    "model_total": 42.2,
-   "total_edge": -4.3
+   "total_edge": -5.3
   },
   {
    "game_id": "2026_09_BUF_MIN",
@@ -615,12 +615,12 @@
    "power_trench": 0.176,
    "off_tr_pressure": 0.127,
    "off_tr_ol_sack": 0.047,
-   "off_tr_win4": 0.108,
+   "off_tr_win4": 0.09,
    "off_tr_aly": 2.768,
    "off_tr_stuff": 0.227,
    "off_tr_power": 0.701,
    "def_tr_pressure": 0.167,
-   "def_tr_win4": 0.135,
+   "def_tr_win4": 0.115,
    "def_tr_aly": 2.873,
    "def_tr_stuff": 0.203,
    "def_tr_power": 0.54,
@@ -752,13 +752,13 @@
    "power_epa": 3.578,
    "power_trench": 0.303,
    "off_tr_pressure": 0.186,
-   "off_tr_ol_sack": 0.046,
-   "off_tr_win4": 0.155,
+   "off_tr_ol_sack": 0.04,
+   "off_tr_win4": 0.139,
    "off_tr_aly": 2.618,
    "off_tr_stuff": 0.228,
    "off_tr_power": 0.444,
    "def_tr_pressure": 0.181,
-   "def_tr_win4": 0.198,
+   "def_tr_win4": 0.165,
    "def_tr_aly": 2.377,
    "def_tr_stuff": 0.261,
    "def_tr_power": 0.718,
