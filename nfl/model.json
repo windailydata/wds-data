@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04 07:14 ET",
+ "updated": "2026-11-05 07:24 ET",
  "season": 2026,
  "week": 9,
  "through_week": 8,
@@ -55,21 +55,13 @@
    "away": "JAX",
    "home": "BAL",
    "away_qb": "Trevor Lawrence",
-   "home_qb": "Tyler Huntley",
+   "home_qb": "Joe Fagnano",
    "market_home_margin": -10.0,
-   "market_total": 40.5,
+   "market_total": 39.5,
    "model_base": -3.6,
-   "model_home_margin": 1.2,
-   "edge": 11.2,
-   "adjustments": [
-    {
-     "team": "BAL",
-     "last_starter": "J.Fagnano",
-     "starting": "Tyler Huntley",
-     "points": 4.8,
-     "basis": "QB change: 174 career dropbacks in data vs 19"
-    }
-   ],
+   "model_home_margin": -3.6,
+   "edge": 6.4,
+   "adjustments": [],
    "matchup": {
     "home_pass_vs_def": -0.085,
     "home_rush_vs_def": -0.076,
@@ -87,7 +79,7 @@
     "home": 4
    },
    "model_total": 45.1,
-   "total_edge": 4.6
+   "total_edge": 5.6
   },
   {
    "game_id": "2026_09_CIN_ATL",
@@ -97,11 +89,11 @@
    "home": "ATL",
    "away_qb": "Joe Burrow",
    "home_qb": "Michael Penix Jr.",
-   "market_home_margin": -3.5,
-   "market_total": 51.5,
+   "market_home_margin": -3.0,
+   "market_total": 52.5,
    "model_base": -1.3,
    "model_home_margin": -1.3,
-   "edge": 2.2,
+   "edge": 1.7,
    "adjustments": [],
    "matchup": {
     "home_pass_vs_def": -0.048,
@@ -120,7 +112,7 @@
     "home": 7
    },
    "model_total": 46.0,
-   "total_edge": -5.5
+   "total_edge": -6.5
   },
   {
    "game_id": "2026_09_DEN_CAR",
@@ -131,7 +123,7 @@
    "away_qb": "Bo Nix",
    "home_qb": "Bryce Young",
    "market_home_margin": -2.5,
-   "market_total": 43.5,
+   "market_total": 44.5,
    "model_base": -4.5,
    "model_home_margin": -4.5,
    "edge": -2.0,
@@ -153,7 +145,7 @@
     "home": 10
    },
    "model_total": 45.7,
-   "total_edge": 2.2
+   "total_edge": 1.2
   },
   {
    "game_id": "2026_09_DAL_IND",
@@ -163,11 +155,11 @@
    "home": "IND",
    "away_qb": "Dak Prescott",
    "home_qb": "Daniel Jones",
-   "market_home_margin": -6.0,
+   "market_home_margin": -5.5,
    "market_total": 51.5,
    "model_base": -0.6,
    "model_home_margin": -0.6,
-   "edge": 5.4,
+   "edge": 4.9,
    "adjustments": [],
    "matchup": {
     "home_pass_vs_def": 0.009,
@@ -196,11 +188,11 @@
    "home": "KC",
    "away_qb": "Geno Smith",
    "home_qb": "Patrick Mahomes",
-   "market_home_margin": 9.5,
+   "market_home_margin": 10.0,
    "market_total": 47.5,
    "model_base": 6.0,
    "model_home_margin": 6.0,
-   "edge": -3.5,
+   "edge": -4.0,
    "adjustments": [],
    "matchup": {
     "home_pass_vs_def": 0.203,
@@ -260,14 +252,22 @@
    "kickoff": "2026-11-08 13:00",
    "away": "CLE",
    "home": "NO",
-   "away_qb": "Deshaun Watson",
+   "away_qb": "Shedeur Sanders",
    "home_qb": "Tyler Shough",
-   "market_home_margin": 1.5,
+   "market_home_margin": 3.0,
    "market_total": 42.5,
    "model_base": 1.6,
-   "model_home_margin": 1.6,
-   "edge": 0.1,
-   "adjustments": [],
+   "model_home_margin": 5.7,
+   "edge": 2.7,
+   "adjustments": [
+    {
+     "team": "CLE",
+     "last_starter": "D.Watson",
+     "starting": "Shedeur Sanders",
+     "points": -4.1,
+     "basis": "QB change: 203 career dropbacks in data vs 234"
+    }
+   ],
    "matchup": {
     "home_pass_vs_def": -0.114,
     "home_rush_vs_def": -0.079,
@@ -294,13 +294,21 @@
    "away": "NYG",
    "home": "PHI",
    "away_qb": "J.J. McCarthy",
-   "home_qb": "Tanner McKee",
+   "home_qb": "Joe Milton III",
    "market_home_margin": -3.5,
-   "market_total": 39.5,
+   "market_total": 38.5,
    "model_base": -0.0,
-   "model_home_margin": -0.0,
-   "edge": 3.5,
-   "adjustments": [],
+   "model_home_margin": 0.9,
+   "edge": 4.4,
+   "adjustments": [
+    {
+     "team": "PHI",
+     "last_starter": "T.McKee",
+     "starting": "Joe Milton III",
+     "points": 0.9,
+     "basis": "QB change: 9 career dropbacks in data vs 146"
+    }
+   ],
    "matchup": {
     "home_pass_vs_def": -0.117,
     "home_rush_vs_def": 0.047,
@@ -318,7 +326,7 @@
     "home": 7
    },
    "model_total": 43.6,
-   "total_edge": 4.1
+   "total_edge": 5.1
   },
   {
    "game_id": "2026_09_LA_WAS",
@@ -427,11 +435,11 @@
    "home": "NE",
    "away_qb": "Jordan Love",
    "home_qb": "Drake Maye",
-   "market_home_margin": 3.0,
-   "market_total": 46.5,
+   "market_home_margin": 3.5,
+   "market_total": 45.5,
    "model_base": 2.0,
    "model_home_margin": 2.0,
-   "edge": -1.0,
+   "edge": -1.5,
    "adjustments": [],
    "matchup": {
     "home_pass_vs_def": 0.051,
@@ -450,7 +458,7 @@
     "home": 7
    },
    "model_total": 44.3,
-   "total_edge": -2.2
+   "total_edge": -1.2
   },
   {
    "game_id": "2026_09_ARI_SEA",
@@ -459,13 +467,20 @@
    "away": "ARI",
    "home": "SEA",
    "away_qb": "Gardner Minshew",
-   "home_qb": "Sam Darnold",
-   "market_home_margin": 12.5,
-   "market_total": 41.5,
+   "home_qb": "Drew Lock",
+   "market_home_margin": 8.5,
+   "market_total": 39.5,
    "model_base": 8.4,
-   "model_home_margin": 7.5,
-   "edge": -5.0,
+   "model_home_margin": 5.1,
+   "edge": -3.4,
    "adjustments": [
+    {
+     "team": "SEA",
+     "last_starter": "S.Darnold",
+     "starting": "Drew Lock",
+     "points": -2.4,
+     "basis": "QB change: 49 career dropbacks in data vs 733"
+    },
     {
      "team": "ARI",
      "last_starter": "J.Brissett",
@@ -491,7 +506,7 @@
     "home": 6
    },
    "model_total": 41.2,
-   "total_edge": -0.3
+   "total_edge": 1.7
   },
   {
    "game_id": "2026_09_TB_CHI",
