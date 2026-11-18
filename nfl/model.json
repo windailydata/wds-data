@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17 14:58 ET",
+ "updated": "2026-11-18 14:30 ET",
  "season": 2026,
  "week": 11,
  "through_week": 10,
@@ -197,7 +197,7 @@
    "away_qb": "Cam Ward",
    "home_qb": "Dak Prescott",
    "market_home_margin": 8.5,
-   "market_total": 54.5,
+   "market_total": 55.5,
    "model_base": 2.9,
    "model_home_margin": 2.9,
    "edge": -5.6,
@@ -219,7 +219,7 @@
     "home": 7
    },
    "model_total": 50.3,
-   "total_edge": -4.2
+   "total_edge": -5.2
   },
   {
    "game_id": "2026_11_TB_DET",
@@ -229,11 +229,11 @@
    "home": "DET",
    "away_qb": "Baker Mayfield",
    "home_qb": "Jared Goff",
-   "market_home_margin": 6.5,
-   "market_total": 45.5,
+   "market_home_margin": 7.0,
+   "market_total": 43.5,
    "model_base": 1.1,
    "model_home_margin": 1.1,
-   "edge": -5.4,
+   "edge": -5.9,
    "adjustments": [],
    "matchup": {
     "home_pass_vs_def": -0.09,
@@ -252,7 +252,7 @@
     "home": 7
    },
    "model_total": 44.1,
-   "total_edge": -1.4
+   "total_edge": 0.6
   },
   {
    "game_id": "2026_11_ARI_KC",
@@ -262,11 +262,11 @@
    "home": "KC",
    "away_qb": "Gardner Minshew",
    "home_qb": "Patrick Mahomes",
-   "market_home_margin": 16.5,
-   "market_total": 41.5,
+   "market_home_margin": 15.5,
+   "market_total": 40.5,
    "model_base": 8.8,
    "model_home_margin": 3.1,
-   "edge": -13.4,
+   "edge": -12.4,
    "adjustments": [
     {
      "team": "ARI",
@@ -293,7 +293,7 @@
     "home": 7
    },
    "model_total": 45.3,
-   "total_edge": 3.8
+   "total_edge": 4.8
   },
   {
    "game_id": "2026_11_JAX_NYG",
@@ -336,11 +336,11 @@
    "home": "LAC",
    "away_qb": "Geno Smith",
    "home_qb": "Justin Herbert",
-   "market_home_margin": 3.5,
+   "market_home_margin": 3.0,
    "market_total": 41.5,
    "model_base": 2.3,
    "model_home_margin": 2.3,
-   "edge": -1.2,
+   "edge": -0.7,
    "adjustments": [],
    "matchup": {
     "home_pass_vs_def": -0.01,
@@ -469,7 +469,7 @@
    "away_qb": "Joe Burrow",
    "home_qb": "Jayden Daniels",
    "market_home_margin": -6.5,
-   "market_total": 52.5,
+   "market_total": 54.5,
    "model_base": -5.4,
    "model_home_margin": -5.4,
    "edge": 1.1,
@@ -491,7 +491,7 @@
     "home": 11
    },
    "model_total": 50.1,
-   "total_edge": -2.4
+   "total_edge": -4.4
   }
  ],
  "teams": [
@@ -1330,13 +1330,13 @@
    "power_epa": -1.878,
    "power_trench": 0.014,
    "off_tr_pressure": 0.193,
-   "off_tr_ol_sack": 0.055,
-   "off_tr_win4": 0.13,
+   "off_tr_ol_sack": 0.044,
+   "off_tr_win4": 0.145,
    "off_tr_aly": 2.58,
    "off_tr_stuff": 0.245,
    "off_tr_power": 0.596,
    "def_tr_pressure": 0.165,
-   "def_tr_win4": 0.112,
+   "def_tr_win4": 0.159,
    "def_tr_aly": 2.437,
    "def_tr_stuff": 0.236,
    "def_tr_power": 0.633,
@@ -1836,13 +1836,13 @@
    "power_epa": -5.384,
    "power_trench": -0.388,
    "off_tr_pressure": 0.191,
-   "off_tr_ol_sack": 0.085,
-   "off_tr_win4": 0.157,
+   "off_tr_ol_sack": 0.077,
+   "off_tr_win4": 0.197,
    "off_tr_aly": 2.354,
    "off_tr_stuff": 0.278,
    "off_tr_power": 0.548,
    "def_tr_pressure": 0.144,
-   "def_tr_win4": 0.13,
+   "def_tr_win4": 0.145,
    "def_tr_aly": 2.754,
    "def_tr_stuff": 0.191,
    "def_tr_power": 0.631,
