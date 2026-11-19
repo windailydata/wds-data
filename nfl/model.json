@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18 14:30 ET",
+ "updated": "2026-11-19 14:35 ET",
  "season": 2026,
  "week": 11,
  "through_week": 10,
@@ -90,7 +90,7 @@
    "away_qb": "Kyle McCord",
    "home_qb": "Josh Allen",
    "market_home_margin": 16.5,
-   "market_total": 45.5,
+   "market_total": 44.5,
    "model_base": 11.2,
    "model_home_margin": 11.2,
    "edge": -5.3,
@@ -112,7 +112,7 @@
     "home": 7
    },
    "model_total": 45.7,
-   "total_edge": 0.2
+   "total_edge": 1.2
   },
   {
    "game_id": "2026_11_BAL_CAR",
@@ -122,11 +122,11 @@
    "home": "CAR",
    "away_qb": "Tyler Huntley",
    "home_qb": "Bryce Young",
-   "market_home_margin": 2.5,
+   "market_home_margin": 3.0,
    "market_total": 43.5,
    "model_base": 1.6,
    "model_home_margin": 0.7,
-   "edge": -1.8,
+   "edge": -2.3,
    "adjustments": [
     {
      "team": "BAL",
@@ -229,11 +229,11 @@
    "home": "DET",
    "away_qb": "Baker Mayfield",
    "home_qb": "Jared Goff",
-   "market_home_margin": 7.0,
-   "market_total": 43.5,
+   "market_home_margin": 6.0,
+   "market_total": 45.5,
    "model_base": 1.1,
    "model_home_margin": 1.1,
-   "edge": -5.9,
+   "edge": -4.9,
    "adjustments": [],
    "matchup": {
     "home_pass_vs_def": -0.09,
@@ -252,7 +252,7 @@
     "home": 7
    },
    "model_total": 44.1,
-   "total_edge": 0.6
+   "total_edge": -1.4
   },
   {
    "game_id": "2026_11_ARI_KC",
@@ -403,7 +403,7 @@
    "away_qb": "Aaron Rodgers",
    "home_qb": "Joe Milton III",
    "market_home_margin": -4.5,
-   "market_total": 38.5,
+   "market_total": 37.5,
    "model_base": -2.0,
    "model_home_margin": -2.0,
    "edge": 2.5,
@@ -425,7 +425,7 @@
     "home": 14
    },
    "model_total": 43.7,
-   "total_edge": 5.2
+   "total_edge": 6.2
   },
   {
    "game_id": "2026_11_MIN_SF",
@@ -436,7 +436,7 @@
    "away_qb": "Kirk Cousins",
    "home_qb": "Brock Purdy",
    "market_home_margin": 3.0,
-   "market_total": 45.5,
+   "market_total": 46.5,
    "model_base": 3.4,
    "model_home_margin": 3.4,
    "edge": 0.4,
@@ -458,7 +458,7 @@
     "home": 7
    },
    "model_total": 43.2,
-   "total_edge": -2.3
+   "total_edge": -3.3
   },
   {
    "game_id": "2026_11_CIN_WAS",
@@ -469,7 +469,7 @@
    "away_qb": "Joe Burrow",
    "home_qb": "Jayden Daniels",
    "market_home_margin": -6.5,
-   "market_total": 54.5,
+   "market_total": 53.5,
    "model_base": -5.4,
    "model_home_margin": -5.4,
    "edge": 1.1,
@@ -491,7 +491,7 @@
     "home": 11
    },
    "model_total": 50.1,
-   "total_edge": -4.4
+   "total_edge": -3.4
   }
  ],
  "teams": [
