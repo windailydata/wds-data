@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20 14:14 ET",
+ "updated": "2026-11-21 13:08 ET",
  "season": 2026,
  "week": 11,
  "through_week": 11,
@@ -163,11 +163,11 @@
    "home": "DAL",
    "away_qb": "Cam Ward",
    "home_qb": "Dak Prescott",
-   "market_home_margin": 8.5,
+   "market_home_margin": 7.5,
    "market_total": 54.5,
    "model_base": 2.8,
    "model_home_margin": 2.8,
-   "edge": -5.7,
+   "edge": -4.7,
    "adjustments": [],
    "matchup": {
     "home_pass_vs_def": 0.198,
@@ -196,11 +196,11 @@
    "home": "DET",
    "away_qb": "Baker Mayfield",
    "home_qb": "Jared Goff",
-   "market_home_margin": 5.5,
-   "market_total": 45.5,
+   "market_home_margin": 4.5,
+   "market_total": 46.5,
    "model_base": 1.0,
    "model_home_margin": 1.0,
-   "edge": -4.5,
+   "edge": -3.5,
    "adjustments": [],
    "matchup": {
     "home_pass_vs_def": -0.089,
@@ -219,7 +219,7 @@
     "home": 7
    },
    "model_total": 44.1,
-   "total_edge": -1.4
+   "total_edge": -2.4
   },
   {
    "game_id": "2026_11_ARI_KC",
@@ -229,11 +229,11 @@
    "home": "KC",
    "away_qb": "Gardner Minshew",
    "home_qb": "Patrick Mahomes",
-   "market_home_margin": 16.5,
+   "market_home_margin": 15.5,
    "market_total": 40.5,
    "model_base": 8.7,
    "model_home_margin": 3.0,
-   "edge": -13.5,
+   "edge": -12.5,
    "adjustments": [
     {
      "team": "ARI",
@@ -304,7 +304,7 @@
    "away_qb": "Geno Smith",
    "home_qb": "Justin Herbert",
    "market_home_margin": 3.0,
-   "market_total": 41.5,
+   "market_total": 42.5,
    "model_base": 2.4,
    "model_home_margin": 2.4,
    "edge": -0.6,
@@ -326,7 +326,7 @@
     "home": 6
    },
    "model_total": 44.8,
-   "total_edge": 3.3
+   "total_edge": 2.3
   },
   {
    "game_id": "2026_11_LV_DEN",
@@ -1022,12 +1022,12 @@
    "power_trench": 0.275,
    "off_tr_pressure": 0.081,
    "off_tr_ol_sack": 0.027,
-   "off_tr_win4": 0.082,
+   "off_tr_win4": 0.078,
    "off_tr_aly": 2.861,
    "off_tr_stuff": 0.215,
    "off_tr_power": 0.475,
    "def_tr_pressure": 0.17,
-   "def_tr_win4": 0.167,
+   "def_tr_win4": 0.184,
    "def_tr_aly": 2.655,
    "def_tr_stuff": 0.194,
    "def_tr_power": 0.857,
@@ -1804,12 +1804,12 @@
    "power_trench": -0.444,
    "off_tr_pressure": 0.185,
    "off_tr_ol_sack": 0.072,
-   "off_tr_win4": 0.14,
+   "off_tr_win4": 0.161,
    "off_tr_aly": 2.816,
    "off_tr_stuff": 0.205,
    "off_tr_power": 0.747,
    "def_tr_pressure": 0.142,
-   "def_tr_win4": 0.138,
+   "def_tr_win4": 0.126,
    "def_tr_aly": 3.244,
    "def_tr_stuff": 0.171,
    "def_tr_power": 0.641,
