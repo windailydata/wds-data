@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21 13:08 ET",
+ "updated": "2026-11-22 13:37 ET",
  "season": 2026,
  "week": 11,
  "through_week": 11,
@@ -57,7 +57,7 @@
    "away_qb": "Kyle McCord",
    "home_qb": "Josh Allen",
    "market_home_margin": 16.5,
-   "market_total": 44.5,
+   "market_total": 45.5,
    "model_base": 11.4,
    "model_home_margin": 11.4,
    "edge": -5.1,
@@ -79,7 +79,7 @@
     "home": 7
    },
    "model_total": 45.8,
-   "total_edge": 1.3
+   "total_edge": 0.3
   },
   {
    "game_id": "2026_11_BAL_CAR",
@@ -89,11 +89,11 @@
    "home": "CAR",
    "away_qb": "Tyler Huntley",
    "home_qb": "Bryce Young",
-   "market_home_margin": 3.0,
-   "market_total": 43.5,
+   "market_home_margin": 2.5,
+   "market_total": 44.5,
    "model_base": 1.5,
    "model_home_margin": 0.6,
-   "edge": -2.4,
+   "edge": -1.9,
    "adjustments": [
     {
      "team": "BAL",
@@ -120,7 +120,7 @@
     "home": 7
    },
    "model_total": 45.2,
-   "total_edge": 1.7
+   "total_edge": 0.7
   },
   {
    "game_id": "2026_11_NO_CHI",
@@ -131,7 +131,7 @@
    "away_qb": "Tyler Shough",
    "home_qb": "Caleb Williams",
    "market_home_margin": 11.5,
-   "market_total": 48.5,
+   "market_total": 47.5,
    "model_base": 8.7,
    "model_home_margin": 8.7,
    "edge": -2.8,
@@ -153,7 +153,7 @@
     "home": 14
    },
    "model_total": 44.5,
-   "total_edge": -4.0
+   "total_edge": -3.0
   },
   {
    "game_id": "2026_11_TEN_DAL",
@@ -164,7 +164,7 @@
    "away_qb": "Cam Ward",
    "home_qb": "Dak Prescott",
    "market_home_margin": 7.5,
-   "market_total": 54.5,
+   "market_total": 55.5,
    "model_base": 2.8,
    "model_home_margin": 2.8,
    "edge": -4.7,
@@ -186,7 +186,7 @@
     "home": 7
    },
    "model_total": 50.4,
-   "total_edge": -4.1
+   "total_edge": -5.1
   },
   {
    "game_id": "2026_11_TB_DET",
@@ -196,11 +196,11 @@
    "home": "DET",
    "away_qb": "Baker Mayfield",
    "home_qb": "Jared Goff",
-   "market_home_margin": 4.5,
-   "market_total": 46.5,
+   "market_home_margin": 3.5,
+   "market_total": 48.5,
    "model_base": 1.0,
    "model_home_margin": 1.0,
-   "edge": -3.5,
+   "edge": -2.5,
    "adjustments": [],
    "matchup": {
     "home_pass_vs_def": -0.089,
@@ -219,7 +219,7 @@
     "home": 7
    },
    "model_total": 44.1,
-   "total_edge": -2.4
+   "total_edge": -4.4
   },
   {
    "game_id": "2026_11_ARI_KC",
@@ -227,7 +227,7 @@
    "kickoff": "2026-11-22 13:00",
    "away": "ARI",
    "home": "KC",
-   "away_qb": "Gardner Minshew",
+   "away_qb": "Josh Johnson",
    "home_qb": "Patrick Mahomes",
    "market_home_margin": 15.5,
    "market_total": 40.5,
@@ -238,9 +238,9 @@
     {
      "team": "ARI",
      "last_starter": "C.Beck",
-     "starting": "Gardner Minshew",
+     "starting": "Josh Johnson",
      "points": 5.7,
-     "basis": "QB change: 61 career dropbacks in data vs 19"
+     "basis": "QB change: 51 career dropbacks in data vs 19"
     }
    ],
    "matchup": {
@@ -263,37 +263,37 @@
    "total_edge": 4.8
   },
   {
-   "game_id": "2026_11_JAX_NYG",
+   "game_id": "2026_11_PIT_PHI",
    "week": 11,
    "kickoff": "2026-11-22 13:00",
-   "away": "JAX",
-   "home": "NYG",
-   "away_qb": "Trevor Lawrence",
-   "home_qb": "J.J. McCarthy",
-   "market_home_margin": -6.0,
-   "market_total": 46.5,
-   "model_base": -5.7,
-   "model_home_margin": -5.7,
-   "edge": 0.3,
+   "away": "PIT",
+   "home": "PHI",
+   "away_qb": "Aaron Rodgers",
+   "home_qb": "Joe Milton III",
+   "market_home_margin": -3.5,
+   "market_total": 37.5,
+   "model_base": -1.9,
+   "model_home_margin": -1.9,
+   "edge": 1.6,
    "adjustments": [],
    "matchup": {
-    "home_pass_vs_def": -0.065,
-    "home_rush_vs_def": -0.078,
-    "away_pass_vs_def": 0.154,
-    "away_rush_vs_def": 0.048,
-    "trench_pass_pts": -0.4,
-    "trench_run_pts": -0.3,
-    "home_qb_pressure_rate": 0.18,
-    "away_qb_pressure_rate": 0.081
+    "home_pass_vs_def": -0.059,
+    "home_rush_vs_def": -0.101,
+    "away_pass_vs_def": -0.069,
+    "away_rush_vs_def": 0.136,
+    "trench_pass_pts": -0.1,
+    "trench_run_pts": -0.9,
+    "home_qb_pressure_rate": 0.165,
+    "away_qb_pressure_rate": 0.132
    },
    "roof": "outdoors",
    "div_game": false,
    "rest": {
     "away": 7,
-    "home": 10
+    "home": 14
    },
-   "model_total": 45.5,
-   "total_edge": -1.0
+   "model_total": 43.7,
+   "total_edge": 6.2
   },
   {
    "game_id": "2026_11_NYJ_LAC",
@@ -304,7 +304,7 @@
    "away_qb": "Geno Smith",
    "home_qb": "Justin Herbert",
    "market_home_margin": 3.0,
-   "market_total": 42.5,
+   "market_total": 43.5,
    "model_base": 2.4,
    "model_home_margin": 2.4,
    "edge": -0.6,
@@ -326,7 +326,40 @@
     "home": 6
    },
    "model_total": 44.8,
-   "total_edge": 2.3
+   "total_edge": 1.3
+  },
+  {
+   "game_id": "2026_11_JAX_NYG",
+   "week": 11,
+   "kickoff": "2026-11-22 16:25",
+   "away": "JAX",
+   "home": "NYG",
+   "away_qb": "Trevor Lawrence",
+   "home_qb": "J.J. McCarthy",
+   "market_home_margin": -6.0,
+   "market_total": 45.5,
+   "model_base": -5.7,
+   "model_home_margin": -5.7,
+   "edge": 0.3,
+   "adjustments": [],
+   "matchup": {
+    "home_pass_vs_def": -0.065,
+    "home_rush_vs_def": -0.078,
+    "away_pass_vs_def": 0.154,
+    "away_rush_vs_def": 0.048,
+    "trench_pass_pts": -0.4,
+    "trench_run_pts": -0.3,
+    "home_qb_pressure_rate": 0.18,
+    "away_qb_pressure_rate": 0.081
+   },
+   "roof": "outdoors",
+   "div_game": false,
+   "rest": {
+    "away": 7,
+    "home": 10
+   },
+   "model_total": 45.5,
+   "total_edge": 0.0
   },
   {
    "game_id": "2026_11_LV_DEN",
@@ -360,39 +393,6 @@
    },
    "model_total": 46.5,
    "total_edge": 6.0
-  },
-  {
-   "game_id": "2026_11_PIT_PHI",
-   "week": 11,
-   "kickoff": "2026-11-22 16:25",
-   "away": "PIT",
-   "home": "PHI",
-   "away_qb": "Aaron Rodgers",
-   "home_qb": "Joe Milton III",
-   "market_home_margin": -3.5,
-   "market_total": 37.5,
-   "model_base": -1.9,
-   "model_home_margin": -1.9,
-   "edge": 1.6,
-   "adjustments": [],
-   "matchup": {
-    "home_pass_vs_def": -0.059,
-    "home_rush_vs_def": -0.101,
-    "away_pass_vs_def": -0.069,
-    "away_rush_vs_def": 0.136,
-    "trench_pass_pts": -0.1,
-    "trench_run_pts": -0.9,
-    "home_qb_pressure_rate": 0.165,
-    "away_qb_pressure_rate": 0.132
-   },
-   "roof": "outdoors",
-   "div_game": false,
-   "rest": {
-    "away": 7,
-    "home": 14
-   },
-   "model_total": 43.7,
-   "total_edge": 6.2
   },
   {
    "game_id": "2026_11_MIN_SF",
@@ -436,7 +436,7 @@
    "away_qb": "Joe Burrow",
    "home_qb": "Jayden Daniels",
    "market_home_margin": -6.0,
-   "market_total": 53.5,
+   "market_total": 54.5,
    "model_base": -5.5,
    "model_home_margin": -5.5,
    "edge": 0.5,
@@ -458,7 +458,7 @@
     "home": 11
    },
    "model_total": 50.2,
-   "total_edge": -3.3
+   "total_edge": -4.3
   }
  ],
  "teams": [
